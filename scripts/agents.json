@@ -1,0 +1,13 @@
+{
+  "universal": {"project": ".agents/skills", "global": "~/.agents/skills"},
+  "codex": {"project": ".agents/skills", "global": "~/.agents/skills"},
+  "claude": {"project": ".claude/skills", "global": "~/.claude/skills"},
+  "gemini": {"project": ".gemini/skills", "global": "~/.gemini/skills"},
+  "cursor": {"project": ".cursor/skills", "global": "~/.cursor/skills"},
+  "opencode": {"project": ".opencode/skills", "global": "~/.config/opencode/skills"},
+  "copilot": {"project": ".github/skills", "global": "~/.agents/skills"},
+  "cline": {"project": ".cline/skills", "global": "~/.cline/skills"},
+  "roo": {"project": ".roo/skills", "global": "~/.roo/skills"},
+  "windsurf": {"project": ".windsurf/skills", "global": "~/.codeium/windsurf/skills"},
+  "pi": {"project": ".pi/agent/skills", "global": "~/.pi/agent/skills"}
+}
